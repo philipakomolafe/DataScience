@@ -10,7 +10,7 @@
 # # And of-course the user is the player 😁..
 # user = input("Select Either of Any..\n1- Door in Front\n2- Open Door\n3- Move Forward\n4- Turn Left\n5- Climb Stairs\n6- Move Barkward\n\n")
 
-# # NOTE POSSIBILITY of USER entering WRONG INPUTS
+# #NOTE POSSIBILITY of USER entering WRONG INPUTS
 # usr_chose = int(user)
 # print(f"USER CHOSE: {usr_chose}")
 
